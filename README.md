@@ -4,7 +4,7 @@ Agent designed to modify the [Lunar Client](https://lunarclient.com) & [Minecraf
 This is part of the [Stellar Tweaks](https://github.com/StellarTweaks) project.
 
 ## Installation
-If you are looking to use Stellar Tweaks, please download the launcher here [here](https://github.com/StellarTweaks/launcher)
+If you are looking to use Stellar Tweaks, please download the launcher here [here](https://github.com/StellarTweaks/Stellar-Launcher)
 
 ## Contribute
 > Coming soon
