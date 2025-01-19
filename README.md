@@ -1,4 +1,4 @@
-# Solar Tweaks Agent
+# Stellar Tweaks Agent
 
 Agent designed to modify the [Lunar Client](https://lunarclient.com) & [Minecraft](https//minecraft.net) classes. 
 This is part of the [Stellar Tweaks](https://github.com/StellarTweaks) project.
